@@ -1,0 +1,12 @@
+lib/
+target/
+submission/
+project/
+lib_managed/
+.settings/
+*.sbt
+*.classpath
+*.idea
+*.project
+
+

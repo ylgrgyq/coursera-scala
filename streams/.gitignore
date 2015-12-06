@@ -1,0 +1,11 @@
+lib/
+target/
+submission/
+project/
+.settings/
+*.sbt
+*.classpath
+*.idea
+*.project
+
+
